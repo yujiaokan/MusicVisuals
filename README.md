@@ -20,7 +20,8 @@ An audio visual, to draw particle collisions visually.
 # How it works
 •	Use keyPressed() class 
 •	I have 2 modes
-'''java
+
+```Java
   public void keyPressed()
   {
      if (key >= '0' && key <= '1') {
@@ -37,7 +38,7 @@ An audio visual, to draw particle collisions visually.
           }
         
     }
-'''
+```
 • pushMatrix();
 • popMatrix();
 • translate();
