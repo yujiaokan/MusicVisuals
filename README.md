@@ -12,7 +12,7 @@ Student Number: D20125727
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
-Planet rotation simulated the heavenly body in outer space
+Planet rotation simulated the heavenly body in outer space.
 An audio visual, to draw particle collisions visually.
 
 # Instructions
@@ -20,7 +20,10 @@ An audio visual, to draw particle collisions visually.
 # How it works
 •	Use keyPressed() class 
 •	I have 2 modes
-    public void keyPressed() {
+
+
+  public void keyPressed() 
+  {
       if (key >= '0' && key <= '1') {
         mode = key - '0';
       }
