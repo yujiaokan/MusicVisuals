@@ -2,7 +2,7 @@
 
 Name:YuJiao Kan
 
-Student Number: D29125727
+Student Number: D20125727
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -12,10 +12,44 @@ Student Number: D29125727
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+Planet rotation simulated the heavenly body in outer space
+An audio visual, to draw particle collisions visually.
 
 # Instructions
 
 # How it works
+•	Use keyPressed() class 
+•	I have 2 modes
+    public void keyPressed() {
+      if (key >= '0' && key <= '1') {
+        mode = key - '0';
+      }
+   
+      if (keyCode == ' ') {
+              if (player.isPlaying()) {
+                  player.pause();
+              } else {
+                  player.rewind();
+                  player.play();
+              }
+          }
+        
+    }
+    
+• pushMatrix();
+• popMatrix();
+• translate();
+• rotateX();
+• rotateY()
+• radians()
+• cos()
+• sin()
+• noise()
+• ambientLight ();
+• pointLight();
+• random()
+
+
 
 # What I am most proud of in the assignment
 
