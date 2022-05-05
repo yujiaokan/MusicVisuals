@@ -44,8 +44,8 @@ Use a Sphere() function to draw spheres in 3D.
         
     }
 ```
-• pushMatrix();
-• popMatrix();
+- pushMatrix();
+- popMatrix();
 • translate();
 • rotateX();
 • rotateY()
