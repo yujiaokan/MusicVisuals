@@ -319,7 +319,7 @@ public class ParticleCollisions extends PApplet{
 
 This is a youtube video:
 
-![](images/youtube.png)(https://youtu.be/C4OJTFsQW44)
+[![YouTube](http://img.youtube.com/vi/C4OJTFsQW44/0.jpg)](https://youtu.be/C4OJTFsQW44)
 
 This is a table:
 
