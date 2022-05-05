@@ -17,8 +17,8 @@ An audio visual, to draw particle collisions visually.
 
 # Instructions
 
-The main function is noise(), which is wavy, undulating textures. 
-The noise function is more rhythmic than the standard random function and generates continuous random numbers between 0.0 and 1.0. 
+The most important function is noise(), which is wavy, undulating textures. 
+The noise function is more rhythmic than the standard random function and generates continuous random numbers between 0.0 and 1.0.
 Use a Sphere() function to draw spheres in 3D.
 
 
