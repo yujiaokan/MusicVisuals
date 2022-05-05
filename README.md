@@ -4,12 +4,6 @@ Name:YuJiao Kan
 
 Student Number: D20125727
 
-## Instructions
-- Fork this repository and use it a starter project for your assignment
-- Create a new package named your student number and put all your code in this package.
-- You should start by creating a subclass of ie.tudublin.Visual
-- There is an example visualiser called MyVisual in the example package
-- Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
 Planet rotation simulated the heavenly body in outer space.
@@ -321,12 +315,5 @@ This is a youtube video:
 
 [![YouTube](http://img.youtube.com/vi/C4OJTFsQW44/0.jpg)](https://youtu.be/C4OJTFsQW44)
 
-This is a table:
 
-| Heading 1 | Heading 2 |
-|-----------|-----------|
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
 
