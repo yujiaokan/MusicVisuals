@@ -17,8 +17,8 @@ An audio visual, to draw particle collisions visually.
 
 # Instructions
 
-The main function is noise(), which is wavy, undulating textures. 
-The noise function is more rhythmic than the standard random function and generates continuous random numbers between 0.0 and 1.0. 
+The most important function is noise(), which is wavy, undulating textures. 
+The noise function is more rhythmic than the standard random function and generates continuous random numbers between 0.0 and 1.0.
 Use a Sphere() function to draw spheres in 3D.
 
 
@@ -319,7 +319,7 @@ public class ParticleCollisions extends PApplet{
 
 This is a youtube video:
 
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
+[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://youtu.be/C4OJTFsQW44)
 
 This is a table:
 
