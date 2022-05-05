@@ -73,6 +73,7 @@ Fill color is black and diaphaneity is 10
 -	rect(0, 0, width, height);
 -	
 use noise() function, random sequence generate float number between  0.0 and 1.0
+
 Draw a lot of ellipses which rotate 1 degree in everytime.
 -	while (degree <= 360)//circle =360
 -	      {      
