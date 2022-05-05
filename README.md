@@ -75,6 +75,8 @@ Fill color is black and diaphaneity is 10
 use noise() function, random sequence generate float number between  0.0 and 1.0
 
 Draw a lot of ellipses which rotate 1 degree in everytime.
+
+sin() and cos() change graphic shape
 -	while (degree <= 360)//circle =360
 -	      {      
 -	       for (int i=0; i < player.bufferSize(); i++) {
