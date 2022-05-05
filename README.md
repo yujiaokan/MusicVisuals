@@ -321,8 +321,6 @@ This is a youtube video:
 
 [![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://youtu.be/C4OJTFsQW44)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C4OJTFsQW44?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This is a table:
 
 | Heading 1 | Heading 2 |
