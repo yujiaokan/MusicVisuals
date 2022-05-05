@@ -61,6 +61,48 @@ Use a Sphere() function to draw spheres in 3D.
 
 # What I am most proud of in the assignment
 
+Mode 0
+The rays of light have bounced around so much that objects are evenly lit from all sides.
+•	ambientLight (30, 20, 50);
+The rays of light from a point. x-coordinate is -300, y-coordinate is 0 , z-coordinate 300
+•	pointLight(0, 255, 255, -300, 0, 300);
+•	pointLight (255, 0, 0, -300.0f, 0.0f, -300.0f);
+
+Rotate a shape around the x-axis and millis() returns the number of milliseconds that control speed is slow.
+•	rotateX((millis() / 2000.0f));
+•	rotateY(millis() / 2000.0f);
+
+Mode 1
+
+Fill color is black and diaphaneity is 10
+•	fill(0,10); 
+•	 rect(0, 0, width, height);
+use noise() function, random sequence generate float number between  0.0 and 1.0
+Draw a lot of ellipses following music to dance
+•	while (degree <= 360)//circle =360
+•	      {
+•	        
+•	        
+•	      for (int i=0; i < player.bufferSize(); i++) {
+•	        degree += incr;
+•	        angle = radians(degree);
+•	        x1 = cos(i) * (radian1 + ((distance1)* noise(y1/100, yIn)));
+•	y1 = sin(i) * (radian1 + ((distance1+player.mix.level()*50) *noise(x1/380, yIn)));
+•	        ellipse(x1*1, y1*1, 1.5f, 1.5f);
+•	   
+•	        x2 = sin(angle) * (radian2 + (distance2 * noise(y2/200, yIn)));
+•	        y2 = cos(angle) * (radian2 + (distance2 * noise(y2/20, yIn)));
+•	        ellipse(x2, y2, 1, 1);
+•	       
+•	      }
+•	
+•	      
+•	      }
+•	
+
+
+
+
 # Markdown Tutorial
 
 This is *emphasis*
