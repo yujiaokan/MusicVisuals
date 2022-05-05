@@ -81,10 +81,8 @@ Fill color is black and diaphaneity is 10
 use noise() function, random sequence generate float number between  0.0 and 1.0
 Draw a lot of ellipses which rotate 1 degree in everytime.
 -	while (degree <= 360)//circle =360
--	      {
--	        
--	        
--	      for (int i=0; i < player.bufferSize(); i++) {
+-	      {      
+-	       for (int i=0; i < player.bufferSize(); i++) {
 -	        degree += incr;
 -	        angle = radians(degree);
 -	        x1 = cos(i) * (radian1 + ((distance1)* noise(y1/100, yIn)));
@@ -93,10 +91,8 @@ Draw a lot of ellipses which rotate 1 degree in everytime.
 -	   
 -	        x2 = sin(angle) * (radian2 + (distance2 * noise(y2/200, yIn)));
 -	        y2 = cos(angle) * (radian2 + (distance2 * noise(y2/20, yIn)));
--	        ellipse(x2, y2, 1, 1);
--	       
--	      }
--	      
+-	        ellipse(x2, y2, 1, 1);  
+-	      }    
 -	      }
 
 
