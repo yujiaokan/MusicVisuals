@@ -88,7 +88,7 @@ Draw a lot of ellipses which rotate 1 degree in everytime.
 -	        degree += incr;
 -	        angle = radians(degree);
 -	        x1 = cos(i) * (radian1 + ((distance1)* noise(y1/100, yIn)));
--	y1 = sin(i) * (radian1 + ((distance1+player.mix.level()*50) *noise(x1/380, yIn)));
+-	        y1 = sin(i) * (radian1 + ((distance1+player.mix.level()*50) *noise(x1/380, yIn)));
 -	        ellipse(x1*1, y1*1, 1.5f, 1.5f);
 -	   
 -	        x2 = sin(angle) * (radian2 + (distance2 * noise(y2/200, yIn)));
