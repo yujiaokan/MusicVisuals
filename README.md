@@ -64,7 +64,7 @@ The rays of light from a point. x-coordinate is -300, y-coordinate is 0 , z-coor
 
 
 Rotate a shape around the x-axis and y-coordinate.
--
+
 millis() returns the number of milliseconds which gives the function an effect that varies over time. 
 -	rotateX((millis() / 2000.0f));
 -	rotateY(millis() / 2000.0f);
