@@ -6,8 +6,13 @@ Student Number: D20125727
 
 
 # Description of the assignment
-Planet rotation simulated the heavenly body in outer space.
-An audio visual, to draw particle collisions visually.
+This music visualiser project is based on the ideal of Planet rotation simulated the heavenly body in outer space. In this beautiful milky way galaxy, each planet designed with 3D structue and represented with variouse colours and shades by the rotation. The explotion and vibration of in the centre part of music flow mimic partical collision in collapsar, which matched with the audio in tune. The whole theme is ideally to represent as a piece of art based on our beauty milky galaxy. 
+
+This melody is a very lilting and light japanese verses. The lyrics is pure poetry. 
+
+
+
+
 
 # Instructions
 
